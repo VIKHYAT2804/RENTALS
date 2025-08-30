@@ -1,0 +1,101 @@
+Name,PropertyType,Area,Rent,Availability,TenantType,Furnishing
+Property 1,2 BHK,BANGALORE SOUTH,34362,Immediate,Family,Half Furnished
+Property 2,1 BHK,BANGALORE SOUTH,13663,After 10 days,Company,Fully Furnished
+Property 3,2 BHK,BANGALORE NORTH,39898,Immediate,Company,Not Furnished
+Property 4,2 BHK,BANGALORE SOUTH,34769,After 10 days,Bachelor,Not Furnished
+Property 5,4 BHK,BANGALORE SOUTH,88317,After 30 days,Family,Not Furnished
+Property 6,2 BHK,BANGALORE CENTRAL,20617,After 15 days,Company,Not Furnished
+Property 7,4 BHK,BANGALORE SOUTH,87216,Immediate,Bachelor,Half Furnished
+Property 8,3 BHK,BANGALORE CENTRAL,58247,Immediate,Family,Half Furnished
+Property 9,1 BHK,BANGALORE SOUTH,19581,After 15 days,Bachelor,Half Furnished
+Property 10,4 BHK,BANGALORE SOUTH,95344,After 30 days,Family,Half Furnished
+Property 11,4 BHK,BANGALORE SOUTH,66059,After 30 days,Bachelor,Fully Furnished
+Property 12,3 BHK,BANGALORE CENTRAL,56143,After 15 days,Family,Not Furnished
+Property 13,2 BHK,BANGALORE CENTRAL,27816,Immediate,Bachelor,Not Furnished
+Property 14,4 BHK,BANGALORE SOUTH,79179,Immediate,Family,Not Furnished
+Property 15,3 BHK,BANGALORE NORTH,49992,Immediate,Family,Not Furnished
+Property 16,3 BHK,BANGALORE CENTRAL,48539,After 15 days,Bachelor,Fully Furnished
+Property 17,3 BHK,BANGALORE CENTRAL,57975,After 15 days,Family,Not Furnished
+Property 18,4 BHK,BANGALORE CENTRAL,76779,Immediate,Family,Not Furnished
+Property 19,1 BHK,BANGALORE CENTRAL,8765,After 30 days,Bachelor,Not Furnished
+Property 20,3 BHK,BANGALORE NORTH,52920,After 15 days,Company,Half Furnished
+Property 21,2 BHK,BANGALORE NORTH,34151,After 15 days,Company,Not Furnished
+Property 22,1 BHK,BANGALORE NORTH,14046,After 10 days,Family,Fully Furnished
+Property 23,3 BHK,BANGALORE SOUTH,56891,Immediate,Bachelor,Not Furnished
+Property 24,2 BHK,BANGALORE SOUTH,39023,After 30 days,Bachelor,Not Furnished
+Property 25,1 BHK,BANGALORE SOUTH,14335,After 15 days,Bachelor,Fully Furnished
+Property 26,1 BHK,BANGALORE CENTRAL,9298,After 15 days,Company,Fully Furnished
+Property 27,3 BHK,BANGALORE NORTH,45353,After 30 days,Company,Half Furnished
+Property 28,1 BHK,BANGALORE SOUTH,14253,After 10 days,Bachelor,Not Furnished
+Property 29,3 BHK,BANGALORE CENTRAL,47965,After 15 days,Bachelor,Not Furnished
+Property 30,4 BHK,BANGALORE NORTH,74245,Immediate,Family,Not Furnished
+Property 31,4 BHK,BANGALORE CENTRAL,87927,Immediate,Company,Half Furnished
+Property 32,1 BHK,BANGALORE CENTRAL,8146,After 10 days,Family,Half Furnished
+Property 33,3 BHK,BANGALORE CENTRAL,45520,After 30 days,Company,Not Furnished
+Property 34,3 BHK,BANGALORE SOUTH,45023,After 30 days,Family,Half Furnished
+Property 35,2 BHK,BANGALORE CENTRAL,35050,After 30 days,Company,Not Furnished
+Property 36,4 BHK,BANGALORE CENTRAL,77874,After 30 days,Bachelor,Half Furnished
+Property 37,4 BHK,BANGALORE NORTH,93620,After 30 days,Family,Half Furnished
+Property 38,1 BHK,BANGALORE NORTH,17167,Immediate,Bachelor,Fully Furnished
+Property 39,4 BHK,BANGALORE CENTRAL,61434,After 30 days,Company,Half Furnished
+Property 40,3 BHK,BANGALORE NORTH,47897,Immediate,Bachelor,Not Furnished
+Property 41,2 BHK,BANGALORE CENTRAL,25776,Immediate,Bachelor,Half Furnished
+Property 42,4 BHK,BANGALORE SOUTH,99516,After 10 days,Bachelor,Half Furnished
+Property 43,2 BHK,BANGALORE NORTH,30577,After 30 days,Bachelor,Fully Furnished
+Property 44,1 BHK,BANGALORE CENTRAL,13640,After 30 days,Family,Half Furnished
+Property 45,1 BHK,BANGALORE CENTRAL,15561,After 15 days,Company,Not Furnished
+Property 46,2 BHK,BANGALORE NORTH,36307,After 30 days,Bachelor,Fully Furnished
+Property 47,2 BHK,BANGALORE SOUTH,25018,Immediate,Company,Not Furnished
+Property 48,3 BHK,BANGALORE NORTH,55035,After 30 days,Family,Not Furnished
+Property 49,3 BHK,BANGALORE SOUTH,58238,After 10 days,Family,Not Furnished
+Property 50,4 BHK,BANGALORE NORTH,91028,Immediate,Company,Not Furnished
+Property 51,1 BHK,BANGALORE CENTRAL,15774,After 15 days,Bachelor,Half Furnished
+Property 52,1 BHK,BANGALORE CENTRAL,10607,Immediate,Company,Fully Furnished
+Property 53,1 BHK,BANGALORE SOUTH,18768,Immediate,Bachelor,Half Furnished
+Property 54,3 BHK,BANGALORE CENTRAL,47435,After 10 days,Company,Not Furnished
+Property 55,3 BHK,BANGALORE CENTRAL,57297,After 10 days,Bachelor,Not Furnished
+Property 56,2 BHK,BANGALORE SOUTH,24434,After 15 days,Company,Fully Furnished
+Property 57,4 BHK,BANGALORE CENTRAL,98508,Immediate,Company,Half Furnished
+Property 58,4 BHK,BANGALORE CENTRAL,64363,After 10 days,Family,Half Furnished
+Property 59,4 BHK,BANGALORE CENTRAL,89940,After 15 days,Family,Fully Furnished
+Property 60,2 BHK,BANGALORE NORTH,24837,Immediate,Company,Not Furnished
+Property 61,4 BHK,BANGALORE NORTH,94421,Immediate,Family,Fully Furnished
+Property 62,1 BHK,BANGALORE NORTH,13921,Immediate,Company,Fully Furnished
+Property 63,4 BHK,BANGALORE CENTRAL,68053,Immediate,Company,Fully Furnished
+Property 64,4 BHK,BANGALORE CENTRAL,77989,After 30 days,Family,Not Furnished
+Property 65,1 BHK,BANGALORE CENTRAL,18008,After 15 days,Company,Half Furnished
+Property 66,3 BHK,BANGALORE CENTRAL,56692,Immediate,Bachelor,Fully Furnished
+Property 67,3 BHK,BANGALORE SOUTH,43864,After 15 days,Company,Fully Furnished
+Property 68,3 BHK,BANGALORE NORTH,53136,After 30 days,Company,Not Furnished
+Property 69,1 BHK,BANGALORE SOUTH,9131,After 10 days,Family,Fully Furnished
+Property 70,4 BHK,BANGALORE NORTH,63400,After 10 days,Family,Half Furnished
+Property 71,1 BHK,BANGALORE NORTH,14628,After 30 days,Family,Not Furnished
+Property 72,4 BHK,BANGALORE CENTRAL,78144,After 30 days,Company,Half Furnished
+Property 73,4 BHK,BANGALORE NORTH,91446,Immediate,Company,Fully Furnished
+Property 74,1 BHK,BANGALORE CENTRAL,9651,After 15 days,Family,Half Furnished
+Property 75,3 BHK,BANGALORE SOUTH,48683,Immediate,Company,Not Furnished
+Property 76,4 BHK,BANGALORE CENTRAL,94920,After 30 days,Company,Fully Furnished
+Property 77,3 BHK,BANGALORE CENTRAL,48142,Immediate,Bachelor,Fully Furnished
+Property 78,4 BHK,BANGALORE CENTRAL,78431,After 30 days,Bachelor,Not Furnished
+Property 79,2 BHK,BANGALORE SOUTH,26511,After 10 days,Family,Fully Furnished
+Property 80,2 BHK,BANGALORE SOUTH,22722,After 10 days,Bachelor,Half Furnished
+Property 81,2 BHK,BANGALORE SOUTH,29909,Immediate,Bachelor,Fully Furnished
+Property 82,4 BHK,BANGALORE CENTRAL,86985,After 10 days,Family,Not Furnished
+Property 83,3 BHK,BANGALORE NORTH,57798,After 30 days,Company,Not Furnished
+Property 84,3 BHK,BANGALORE SOUTH,53945,After 30 days,Bachelor,Half Furnished
+Property 85,2 BHK,BANGALORE SOUTH,27710,After 15 days,Company,Fully Furnished
+Property 86,2 BHK,BANGALORE CENTRAL,30936,Immediate,Company,Fully Furnished
+Property 87,3 BHK,BANGALORE SOUTH,43781,Immediate,Family,Half Furnished
+Property 88,4 BHK,BANGALORE CENTRAL,63810,After 15 days,Company,Half Furnished
+Property 89,4 BHK,BANGALORE CENTRAL,76406,After 15 days,Bachelor,Not Furnished
+Property 90,1 BHK,BANGALORE SOUTH,19081,Immediate,Family,Not Furnished
+Property 91,3 BHK,BANGALORE SOUTH,40073,After 15 days,Bachelor,Not Furnished
+Property 92,4 BHK,BANGALORE NORTH,96243,After 15 days,Family,Fully Furnished
+Property 93,3 BHK,BANGALORE CENTRAL,43969,After 10 days,Family,Half Furnished
+Property 94,4 BHK,BANGALORE CENTRAL,88545,Immediate,Bachelor,Fully Furnished
+Property 95,3 BHK,BANGALORE NORTH,51063,After 15 days,Bachelor,Fully Furnished
+Property 96,1 BHK,BANGALORE SOUTH,10403,Immediate,Family,Half Furnished
+Property 97,3 BHK,BANGALORE NORTH,42738,Immediate,Family,Not Furnished
+Property 98,2 BHK,BANGALORE SOUTH,25786,Immediate,Family,Not Furnished
+Property 99,4 BHK,BANGALORE SOUTH,96798,After 30 days,Family,Fully Furnished
+Property 100,4 BHK,BANGALORE SOUTH,84261,Immediate,Bachelor,Half Furnished
